@@ -1,5 +1,5 @@
 {
-    "name": "kfeldmaier/yii2-filerepository",
+    "name": "kfeldmaier/yii2-file-repository",
     "description": "Synchronize directories and files to database",
     "type": "yii2-extension",
     "keywords": [
